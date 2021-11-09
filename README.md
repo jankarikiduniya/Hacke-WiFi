@@ -24,7 +24,7 @@ Script For Attacking Wireless Connections Using Built-In Kali Tools
 
 - git clone https://github.com/jankarikiduniya/Hacke-WiFi
 
-- cd wifi-hacker
+- cd Hacke-WiFi
 
 - chmod +x *
 
